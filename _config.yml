@@ -1,4 +1,4 @@
-layout_spectrum: 0
+layout_spectrum: 1
 name: MadeBySimmons
 collections:
   - index:
@@ -15,12 +15,12 @@ collections:
 color:
   brandStrength: 0.493617
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  saturation: 1
+  rhythmicContrast: 0.5170213
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-typography_spectrum: 0.4765958
+typography_spectrum: 0.7680851
