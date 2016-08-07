@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0
+color:
+  lightness: 1
+  brandStrength: 1
+  saturation: 1
+  rhythmicContrast: 1
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: MadeBySimmons
