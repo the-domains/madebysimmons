@@ -1,16 +1,16 @@
-typography_spectrum: 0.3085106
+typography_spectrum: 0.7125733469147235
 color:
-  brandStrength: 0.493617
-  lightness: 1
-  saturation: 0.4595745
-  rhythmicContrast: 1
+  brandStrength: 0.749628021614626
+  lightness: 0.8181418115273118
+  saturation: 0.09902169345878065
+  rhythmicContrast: 0.45259635453112423
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.7680851
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+layout_spectrum: 0.3965325551107526
 name: MadeBySimmons
 collections:
   - index:
