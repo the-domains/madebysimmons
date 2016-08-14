@@ -1,17 +1,7 @@
-typography_spectrum: 0.7125733469147235
-color:
-  brandStrength: 0.749628021614626
-  lightness: 0.8181418115273118
-  saturation: 0.09902169345878065
-  rhythmicContrast: 0.45259635453112423
-  brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
 layout_spectrum: 0.3965325551107526
+description: 'After-all, why not?'
 name: MadeBySimmons
+title: A Site For Many Things
 collections:
   - index:
       navigable: true
@@ -24,5 +14,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: A Site For Many Things
-description: 'After-all, why not?'
+typography_spectrum: 0.7125733469147235
+color:
+  brandStrength: 0.749628021614626
+  lightness: 0.8181418
+  saturation: 0.0990217
+  rhythmicContrast: 1
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
