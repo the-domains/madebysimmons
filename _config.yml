@@ -1,19 +1,3 @@
-layout_spectrum: 0.3965325551107526
-description: 'After-all, why not?'
-name: MadeBySimmons
-title: A Site For Many Things
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.7125733469147235
 color:
   brandStrength: 0.749628021614626
@@ -26,3 +10,23 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
+layout_spectrum: 0.3965325551107526
+name: MadeBySimmons
+navigation:
+  - name: Hozier Lane
+    id: 19fe9cbf-36fb-4c86-8891-405ea875b937
+    type: content
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+title: A Site For Many Things
+description: 'After-all, why not?'
