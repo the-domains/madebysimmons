@@ -28,6 +28,9 @@ navigation:
   - name: Princes Pier
     id: 6e811c53-98bb-4e19-96e3-646884053437
     type: content
+  - name: Sunday Evening Sunset In Brighton
+    id: e14b4031-ba3d-4530-875d-1ee0cd4dba9f
+    type: content
 collections:
   - index:
       navigable: true
