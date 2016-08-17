@@ -19,6 +19,9 @@ navigation:
   - name: Shelley Beach
     id: 3f3e9b3f-b4f8-4782-955c-61cb5e432ec3
     type: content
+  - name: Baloons @ Sunrise
+    id: 30406440-4d35-40b7-be09-c59044d7ba48
+    type: content
 collections:
   - index:
       navigable: true
