@@ -16,6 +16,9 @@ navigation:
   - name: Hozier Lane
     id: 19fe9cbf-36fb-4c86-8891-405ea875b937
     type: content
+  - name: Shelley Beach
+    id: 3f3e9b3f-b4f8-4782-955c-61cb5e432ec3
+    type: content
 collections:
   - index:
       navigable: true
