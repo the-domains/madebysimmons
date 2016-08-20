@@ -1,16 +1,16 @@
-typography_spectrum: 0.7125733469147235
+layout_spectrum: 0.06797607359476388
+typography_spectrum: 0.40337616694159806
 color:
-  brandStrength: 0.749628021614626
-  lightness: 0.8181418
-  saturation: 0.0990217
-  rhythmicContrast: 1
+  brandStrength: 0.792055191937834
+  lightness: 0.8024085550568998
+  saturation: 0.46613143221475184
+  rhythmicContrast: 0.4633076381869614
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.3965325551107526
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: MadeBySimmons
 navigation:
   - name: Hozier Lane
